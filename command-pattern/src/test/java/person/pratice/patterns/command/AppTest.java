@@ -1,4 +1,4 @@
-package person.pratice;
+package person.pratice.patterns.command;
 
 import static org.junit.Assert.assertTrue;
 
